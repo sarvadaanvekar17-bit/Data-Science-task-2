@@ -1,0 +1,27 @@
+Test Case 1:
+Input: 95
+Expected Output: Grade A
+
+Test Case 2:
+Input: 85
+Expected Output: Grade B
+
+Test Case 3:
+Input: 75
+Expected Output: Grade C
+
+Test Case 4:
+Input: 65
+Expected Output: Grade D
+
+Test Case 5:
+Input: 50
+Expected Output: Grade F
+
+Test Case 6:
+Input: -10
+Expected: Error message
+
+Test Case 7:
+Input: 120
+Expected: Error message
